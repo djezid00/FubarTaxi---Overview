@@ -76,6 +76,14 @@ The system consists of:
 
 ![revenue](A9gu8zq6_rlsl1e_2g8.jpg)
 
+* **New ride and status:**
+
+![add ride](newRide)
+
+* **Employees**
+
+![employees](employees.png)
+
 ## Development Process
 
 ### Research and Planning
