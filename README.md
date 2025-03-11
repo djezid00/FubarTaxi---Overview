@@ -45,11 +45,36 @@ The system consists of:
 
 ### Android Application
 ![Android App - Map View](https://cdn.mathpix.com/cropped/2025_03_11_bf711966d475831bb6d6g-11.jpg?height=906&width=1598&top_left_y=1135&top_left_x=229)
+
+* **Ride navigation:**
+  
+![navigation](A916mfknh_rlsl15_2g8.jpg)
+* **New ride notification:**
+  
 ![Android App - Ride Notification](https://cdn.mathpix.com/cropped/2025_03_11_bf711966d475831bb6d6g-12.jpg?height=889&width=1598&top_left_y=1080&top_left_x=229)
 
+* **"On break" menu:**
+
+![LogIn form](A91ymyc2h_rlsl0x_2g8.png)
+
+* **Fare input:**
+
+![fare](A996llo1_rlsl18_2g8.jpg)
+
 ### Web Application
+* **Log in Form:**
+  
+![LogIn form](A9d2liu7_rlsl1b_2g8.jpg)
+* **Map overview:**
+  
 ![Web App - Map](https://cdn.mathpix.com/cropped/2025_03_11_bf711966d475831bb6d6g-27.jpg?height=869&width=1600&top_left_y=708&top_left_x=231)
+* **Ride history:**
+  
 ![Web App - Rides](https://cdn.mathpix.com/cropped/2025_03_11_bf711966d475831bb6d6g-28.jpg?height=867&width=1594&top_left_y=229&top_left_x=225)
+
+* **Revenue:**
+
+![revenue](A9gu8zq6_rlsl1e_2g8.jpg)
 
 ## Development Process
 
