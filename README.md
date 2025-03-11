@@ -114,9 +114,7 @@ The system consists of:
 
 ## Contact
 
-For inquiries or further information, please visit our [website](www.fubartaxi.com) or contact us via [email](fubarsoftware@gmail.com) .
-
-
+For inquiries or further information, please visit our [website](https://www.fubartaxi.com) or contact us via [email](mailto:fubarsoftware@gmail.com).
 
 This project is under the copyright of FUBAR. All rights reserved.
 
